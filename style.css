@@ -60,6 +60,7 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background-color: white;
 }
 
 #edito h2
@@ -85,6 +86,8 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background-color: white;
+	
 }
 
 #footer
