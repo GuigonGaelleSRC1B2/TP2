@@ -98,3 +98,8 @@
 	padding: 20px;
 	height: 1%;
 }
+
+h3 a {
+    color: grey;
+    font-size: 12px;
+}
