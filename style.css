@@ -1,7 +1,7 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: darkgrey;
 }
 
 #header
@@ -9,6 +9,7 @@
 	background: #ccc;
 	padding: 20px;
 	text-align: center;
+	font-style: italic;
 }
 
 #header h1 { margin: 0; }
